@@ -27,7 +27,7 @@ Step 5:Follow the instructions in the installer to complete the installation.
 <ins>How to create an account on GitHub</ins>
 I imagine since you're already here you did all these steps correctly congratulations DEVELOPER ✨🎉🎉 heres a doughnut for all your hard work 🍩
 
-![GitHub logo](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png)
+![GitHub logo](https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo-700x394.png)
 
 Step 1:Go to the GitHub website: https://github.com
 Step 2:Click the "Sign up" button.

@@ -1,10 +1,10 @@
-Welcome to you first introduction to Version control Git and Github here you will learn how to use two of the most useful tools in every programmers aresenal which enables us to not only backup our code but also collaborate with people ranging from small distances like a room down the hall in your hostel to larger ones like an office all the way in okinawa japan all from the comfort of your current location so yeah these are pretty important tools and if you stick with this tutorial you'll become well versed in the concept of version control in no time as you will make your first contribution to an open source project here.
+<h1>Welcome</h1> to you first introduction to Version control Git and Github here you will learn how to use two of the most useful tools in every programmers aresenal which enables us to not only backup our code but also collaborate with people ranging from small distances like a room down the hall in your hostel to larger ones like an office all the way in okinawa japan all from the comfort of your current location so yeah these are pretty important tools and if you stick with this tutorial you'll become well versed in the concept of version control in no time as you will make your first contribution to an open source project here.
 
 I know you're a beginner and may feel intimidated but never let that stop you from learning. Just know any expert you know now was as clueless as you may be now, some may have been even more clueless so enjoy the ride and move at your own pace. If you feel you're mates are making microsoft or google level applications now calm down don't worry learn first you sef will soon oppress them so DEVELOPER welcome and Happy Hacking
 
 ![Git and Github logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmAS6S5CmPrAMnxRdr30K_js46NIRnDOFBRLweFc9e2aN0vDu4eUw-TUYjBQQMG9DreI0&usqp=CAU)
 
-<ins>What is Git and why should I use it?</ins>
+<ins><h1>What is Git and why should I use it?</h1></ins>
 
 Git is a version control system that helps you track changes to your code over time. It's like having a time machine for your code!
 
@@ -14,7 +14,8 @@ A repository is a container for your code. It stores all of the different versio
 
 Git is also a distributed version control system, which means that everyone working on the novel can have their own copy of the repository. This makes it easy to collaborate on projects with other people.
 
-<ins>How to download and install Git</ins>
+<ins><h1>How to download and install Git</h1></ins>
+
 ![Git logo](https://git-scm.com/images/logo@2x.png)
 
 Step 1: Go to the Git Downloads page: https://git-scm.com/downloads
@@ -41,7 +42,7 @@ brew install git
 Once you have installed Git, you can verify the installation by running the following command:
 git --version
 
-<ins>Documentation !!!</ins>
+<ins><h1>Documentation !!!</h1></ins>
 Any good documentation is like a map, it shows you where you are, where you're going, and how to get there without getting lost.
 
 When you're learning something new, documentation can be your best friend. It can help you understand the basics, learn about the different features, and troubleshoot any problems you encounter.
@@ -58,7 +59,7 @@ I recommend reading the Git documentation: https://git-scm.com/doc
 
 ![Git workflow diagram](https://www.gliffy.com/sites/default/files/image/2021-04/image-blog-what-is-gitflow-diagram%20%281%29.jpg)
 
-<ins>How to use Git</ins>
+<ins><h1>How to use Git</h1></ins>
 
 Git is a powerful tool, but it can be a bit tricky to learn at first. Here is a basic overview of how to use Git:
 
@@ -74,11 +75,11 @@ Step 3: Commit your changes. You can do this by running the following command:
 Step 4: Push your changes to a remote repository. This is the remote location where save and can share your code with other people if you feel so. To push your changes to a remote repository, you need to have an account with a Git hosting service like GitHub. Once you have an account, you can run the following command to push your changes:
 (git push origin master)
 
-You may not understand this now but alwayyyyys i mean alwayyyyyys ENSURE YOU PUSH YOUR CODE TO GIT HUB AFTER YOU'VE MADE AN IMPORTANT CHANGE TO IT !!! ensure you repeat that phrase to yourself at leasted 12 times a day and don't be like me who had to spend a whole extra 24hrs re-coding a feature i already worked on but didn't push to git hub after my hard-drive crashed 😅😅😅 the only saving grace keeping me from starting the whole project over again is cause i had a good chunck of the code backed up to git hub so i could clone an exact copy of my code back to my system using the Git clone command and the best part of it all is even if i didn't repair my hard drive, as long as you have you're code on Github you can clone it to any system you feel like.
+You may not understand this now but alwayyyyys i mean alwayyyyyys <h2>ENSURE YOU PUSH YOUR CODE TO GIT HUB AFTER YOU'VE MADE AN IMPORTANT CHANGE TO IT !!!</h2> ensure you repeat that phrase to yourself at leasted 12 times a day and don't be like me who had to spend a whole extra 24hrs re-coding a feature i already worked on but didn't push to git hub after my hard-drive crashed 😅😅😅 the only saving grace keeping me from starting the whole project over again is cause i had a good chunck of the code backed up to git hub so i could clone an exact copy of my code back to my system using the Git clone command and the best part of it all is even if i didn't repair my hard drive, as long as you have you're code on Github you can clone it to any system you feel like.
 
 ![Git branch diagram](https://user-images.githubusercontent.com/1256329/117236177-33599100-adf6-11eb-967c-5ef7898b55dc.png)
 
-<ins>How to create and manage branches</ins>
+<ins><h1>How to create and manage branches</h1></ins>
 
 A Git branch is a copy of the main codebase. Branches are useful for isolating changes from the main codebase while you are working on them.
 
@@ -99,7 +100,7 @@ This will merge the specified branch into the current branch.
 
 ![Git merge conflict diagram](https://i.stack.imgur.com/qq6hL.jpg)
 
-<ins>How to resolve merge conflicts</ins>
+<ins><h1>How to resolve merge conflicts</h1></ins>
 
 Merge conflicts occur when two branches have made changes to the same file. To resolve merge conflicts, you need to manually edit the file and choose which changes you want to keep.
 
